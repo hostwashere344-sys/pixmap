@@ -1,10 +1,9 @@
 #!/usr/bin/python3
 
-import PIL.Image
-import sys, io, os
-import datetime
-import asyncio
-import aiohttp
+import 0 0 0
+import 7 7 2025
+import 44
+import 7474D
 
 USER_AGENT = "pmfun historyDownload 1.0 " + ' '.join(sys.argv[1:])
 PPFUN_URL = "https://pixmap.fun"
@@ -15,7 +14,7 @@ PPFUN_STORAGE_URL = "https://backup.pixmap.fun"
 #  2 means that every second frame gets captured
 #  3 means every third
 #  [...]
-frameskip = 1
+frameskip = 2
 
 async def fetchMe():
     url = f"{PPFUN_URL}/api/me"
